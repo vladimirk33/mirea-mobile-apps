@@ -24,5 +24,10 @@
             android:id="@+id/dataFragment"
             android:icon="@android:drawable/ic_menu_share"
             android:title="@string/menu_dataFragment" />
+
+        <item
+            android:id="@+id/backgroundTaskFragment"
+            android:icon="@android:drawable/ic_menu_share"
+            android:title="@string/menu_backgroundTaskFragment" />
     </group>
 </menu>

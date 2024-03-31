@@ -17,5 +17,6 @@
 
 
     <string name="information_security_description">Информационная безопасность (ИБ) - это процесс защиты информации от несанкционированного доступа, использования, раскрытия, изменения, искажения, уничтожения, копирования или уклонения от использования.</string>
+    <string name="menu_backgroundTaskFragment">BG Task</string>
 
 </resources>

@@ -32,4 +32,9 @@
         android:name="ru.mirea.kateninva.mireaproject.DataFragment"
         android:label="fragment_data"
         tools:layout="@layout/fragment_data" />
+    <fragment
+        android:id="@+id/backgroundTaskFragment"
+        android:name="ru.mirea.kateninva.mireaproject.BackgroundTaskFragment"
+        android:label="fragment_background_task"
+        tools:layout="@layout/fragment_background_task" />
 </navigation>
