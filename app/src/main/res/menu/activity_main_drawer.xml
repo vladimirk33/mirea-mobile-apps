@@ -29,5 +29,20 @@
             android:id="@+id/backgroundTaskFragment"
             android:icon="@android:drawable/ic_menu_share"
             android:title="@string/menu_backgroundTaskFragment" />
+
+        <item
+            android:id="@+id/sensorFragment"
+            android:icon="@android:drawable/ic_menu_share"
+            android:title="@string/menu_sensorFragment" />
+
+        <item
+            android:id="@+id/microphoneFragment"
+            android:icon="@android:drawable/ic_menu_share"
+            android:title="@string/menu_microphoneFragment" />
+
+        <item
+            android:id="@+id/cameraFragment"
+            android:icon="@android:drawable/ic_menu_share"
+            android:title="@string/menu_cameraFragment" />
     </group>
 </menu>

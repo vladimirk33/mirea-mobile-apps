@@ -12,6 +12,9 @@
     <string name="menu_slideshow">Slideshow</string>
     <string name="menu_browser">Browser</string>
     <string name="menu_dataFragment">Data</string>
+    <string name="menu_sensorFragment">Sensor</string>
+    <string name="menu_microphoneFragment">Microphone</string>
+    <string name="menu_cameraFragment">Camera</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
