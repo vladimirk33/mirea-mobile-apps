@@ -44,5 +44,15 @@
             android:id="@+id/cameraFragment"
             android:icon="@android:drawable/ic_menu_share"
             android:title="@string/menu_cameraFragment" />
+
+        <item
+            android:id="@+id/profileFragment"
+            android:icon="@android:drawable/ic_menu_share"
+            android:title="@string/menu_profileFragment" />
+
+        <item
+            android:id="@+id/filesFragment"
+            android:icon="@android:drawable/ic_menu_share"
+            android:title="@string/menu_filesFragment" />
     </group>
 </menu>
