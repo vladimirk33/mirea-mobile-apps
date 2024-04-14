@@ -9,7 +9,7 @@ Practice 3 (intents, fragments)          |   🟢  | [Follow](https://github.com
 Practice 4 (thread, looper, worker)           |   🟢  | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/practice-4) [Follow Project](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/mirea-project)
 Practice 5 (sensors, camera, recorder)          |   🟢  | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/practice-5) [Follow Project](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/mirea-project)
 Practice 6 (shared prefs, sqlite, storage)          |   🟢  | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/practice-6) [Follow Project](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/mirea-project)
-Practice 7 (http, firebase)           |   🔴  |
+Practice 7 (http, firebase)           |   🟡  |
 Practice 8 (yandex marp, osm)           |   🔴  |
 MIREA Project            |   🟡 (practice 6)  | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/mirea-project)
 
