@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/logoImage"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:src="@drawable/firebase"
+        android:layout_marginTop="100dp"/>
+
+    <LinearLayout
+        android:id="@+id/contentBody"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/logoImage"
+        android:paddingHorizontal="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/emailpassword_title_text"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/emailPasswordMethod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/emailpassword_status_fmt"
+            android:textSize="17sp"
+            android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/statusText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/signed_out"
+            android:textSize="15sp"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:backgroundTint="@android:color/darker_gray">
+
+        <LinearLayout
+            android:id="@+id/groupSecondary"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingVertical="25dp"
+            android:paddingHorizontal="20dp"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:visibility="invisible">
+
+            <LinearLayout
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <Button
+                    android:id="@+id/signOutButton"
+                    android:layout_weight="1"
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/sign_out"
+                    android:textColor="@color/white"
+                    android:layout_marginEnd="10dp"/>
+
+                <Button
+                    android:layout_marginStart="10dp"
+                    android:id="@+id/verifyEmailButton"
+                    android:layout_weight="1"
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/verify_email"
+                    android:textColor="@color/white"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/groupMain"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingVertical="25dp"
+            android:paddingHorizontal="20dp"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <EditText
+                    android:id="@+id/emailField"
+                    android:layout_weight="1"
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:hint="Your email..."
+                    android:layout_marginEnd="10dp"/>
+
+                <EditText
+                    android:layout_marginStart="10dp"
+                    android:id="@+id/passwordField"
+                    android:layout_weight="1"
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:hint="Your password..."/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <Button
+                    android:id="@+id/signInButton"
+                    android:layout_weight="1"
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/sign_in"
+                    android:textColor="@color/white"
+                    android:layout_marginEnd="10dp"/>
+
+                <Button
+                    android:layout_marginStart="10dp"
+                    android:id="@+id/signUpButton"
+                    android:layout_weight="1"
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/create_account"
+                    android:textColor="@color/white"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>
