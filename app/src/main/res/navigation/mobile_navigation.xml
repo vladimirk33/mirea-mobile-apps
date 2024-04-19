@@ -62,4 +62,9 @@
         android:name="ru.mirea.kateninva.mireaproject.FilesFragment"
         android:label="fragment_files"
         tools:layout="@layout/fragment_files" />
+    <fragment
+        android:id="@+id/apiFragment"
+        android:name="ru.mirea.kateninva.mireaproject.ApiFragment"
+        android:label="fragment_api"
+        tools:layout="@layout/fragment_api" />
 </navigation>
