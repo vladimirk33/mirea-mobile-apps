@@ -59,5 +59,9 @@
             android:id="@+id/apiFragment"
             android:icon="@android:drawable/ic_menu_share"
             android:title="@string/menu_apiFragment" />
+        <item
+            android:id="@+id/facilitiesFragment"
+            android:icon="@android:drawable/ic_menu_share"
+            android:title="@string/menu_facilitiesFragment" />
     </group>
 </menu>

@@ -29,7 +29,6 @@ public class AuthActivity extends AppCompatActivity {
         setContentView(R.layout.activity_auth);
 
         mAuth = FirebaseAuth.getInstance();
-        mAuth.signOut();
         // [END initialize_auth]
 
         emailField = findViewById(R.id.emailField);

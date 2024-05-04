@@ -18,6 +18,7 @@
     <string name="menu_profileFragment">Profile</string>
     <string name="menu_filesFragment">Files</string>
     <string name="menu_apiFragment">API</string>
+    <string name="menu_facilitiesFragment">Facilities</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
