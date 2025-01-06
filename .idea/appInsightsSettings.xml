@@ -8,7 +8,7 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="com.M1estere.com.unity.template.mobile2D" />
+                  <option name="appId" value="com.katenin.com.unity.template.mobile2D" />
                 </ConnectionSetting>
               </option>
               <option name="failureTypes">
@@ -27,10 +27,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="com.mirea.solovyevia.anime_project" />
-                  <option name="mobileSdkAppId" value="1:1022230381284:android:ffa075b1af1ba40c89a2f1" />
-                  <option name="projectId" value="anime-java-app" />
-                  <option name="projectNumber" value="1022230381284" />
+                  <option name="appId" value="PLACEHOLDER" />
+                  <option name="mobileSdkAppId" value="" />
+                  <option name="projectId" value="" />
+                  <option name="projectNumber" value="" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

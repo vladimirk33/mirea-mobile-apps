@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_marginTop="60dp"
+        android:layout_centerHorizontal="true"
+        android:layout_width="300dp"
+        android:layout_height="550dp"
+        android:paddingHorizontal="20dp">
+
+        <TextView
+            android:id="@+id/fav_film_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Нет данных!"
+            android:textAlignment="center"/>
+
+        <Button
+            android:id="@+id/show_button"
+            android:layout_marginTop="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Отобразить любимый фильм"/>
+
+        <EditText
+            android:id="@+id/edit_field"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Заполни меня"/>
+
+        <Button
+            android:id="@+id/save_button"
+            android:layout_marginTop="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Сохранить любимый фильм"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
