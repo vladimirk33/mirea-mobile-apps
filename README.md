@@ -1,19 +1,16 @@
-# mirea-mobile-apps
-Practices for Mobile Application Development course
-
-Title            | Status | Link
---------------------|--------|--------
-Practice 1 (layouts + onClick)          |   🟢  | [Follow](https://github.com/vladimirk33/mirea-mobile-apps/tree/feat/practice-1)
-Practice 2 (toast, snackbar, dialogs, etc)          |   🟢  | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/practice-2)
-Practice 3 (intents, fragments)          |   🟢  | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/practice-3) [Follow Project](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/mirea-project)
-Practice 4 (thread, looper, worker)           |   🟢  | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/practice-4) [Follow Project](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/mirea-project)
-Practice 5 (sensors, camera, recorder)          |   🟢  | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/practice-5) [Follow Project](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/mirea-project)
-Practice 6 (shared prefs, sqlite, storage)          |   🟢  | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/practice-6) [Follow Project](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/mirea-project)
-Practice 7 (http, firebase)           |   🟢  | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/practice-7) [Follow Project](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/mirea-project)
-Practice 8 (yandex marp, osm)           |   🟡  | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/practice-8) [Follow Project](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/mirea-project)
-MIREA Project            |   🟡 (practice 8)  | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/mirea-project)
-
-**Statuses:** <br>
-🔴 Not done <br>
-🟡 Done <br>
-🟢 Approved <br>
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td>
+      <p>Scroll View</p>
+      <img src="https://github.com/user-attachments/assets/817d094b-d212-4eda-b496-e594ebe03ef4" alt="Scroll View" />
+    </td>
+    <td>
+      <p>List View</p>
+      <img src="https://github.com/user-attachments/assets/2cb938ce-e0be-4995-bb3e-fb02196f2be5" alt="List View" />
+    </td>
+    <td>
+      <p>Recycler View</p>
+      <img src="https://github.com/user-attachments/assets/635050fb-bc5f-4414-badb-8ac0ad9e45c2" alt="Recycler View" />
+    </td>
+  </tr>
+</table>
