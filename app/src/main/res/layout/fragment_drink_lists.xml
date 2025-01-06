@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context=".fragments.DrinkListsFragment">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/top_watched_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/top_watched"
+                android:textColor="@color/white"
+                android:textSize="22sp"
+                android:textStyle="bold"/>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/random_drink_recycler"
+                android:layout_below="@id/top_watched_title"
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="350dp"/>
+
+        </RelativeLayout>
+
+</FrameLayout>
