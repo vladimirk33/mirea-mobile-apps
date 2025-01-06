@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DataFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:layout_marginTop="75dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingHorizontal="35dp">
+
+            <EditText
+                android:id="@+id/edit_text"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:hint="Enter data for Bottom Sheet"/>
+
+            <Button
+                android:id="@+id/button"
+                android:layout_marginTop="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:text="open bottom sheet"
+                android:textAllCaps="true"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</FrameLayout>
