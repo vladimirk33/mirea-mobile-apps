@@ -11,7 +11,7 @@ Practice 5 (sensors, camera, recorder)          |   🟢  | [Follow](https://git
 Practice 6 (shared prefs, sqlite, storage)          |   🟢  | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/practice-6) [Follow Project](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/mirea-project)
 Practice 7 (http, firebase)           |   🟢  | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/practice-7) [Follow Project](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/mirea-project)
 Practice 8 (yandex marp, osm)           |   🟢  | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/practice-8) [Follow Project](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/mirea-project)
-MIREA Project            |   🟡 | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/mirea-project)
+MIREA Project            |   🟢 | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/mirea-project)
 Practice 9            |   🟡 | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/practice-9)
 Practice 10            |   🟡 | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/practice-10)
 Practice 11            |   🟡 | [Follow](https://github.com/vladimirkatenin/mirea-mobile-apps/tree/feat/practice-11)
